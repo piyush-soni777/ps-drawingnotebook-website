@@ -33,4 +33,4 @@ It allows users to draw freely on a digital canvas using a pencil tool, just lik
 
 ---
 
-## 📂 Project Structure
+
