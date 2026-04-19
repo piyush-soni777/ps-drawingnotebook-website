@@ -32,5 +32,16 @@ It allows users to draw freely on a digital canvas using a pencil tool, just lik
 - Lines are drawn dynamically as the user moves the cursor  
 
 ---
+## 👨‍💻 Author
+**Piyush Soni**  
+💻 Web Developer  
 
+---
 
+## 📌 About Project
+This project was created to demonstrate the use of HTML Canvas and JavaScript for building interactive applications.  
+It replicates a simple drawing notebook experience in the browser.
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
