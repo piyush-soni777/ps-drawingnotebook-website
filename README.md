@@ -8,6 +8,10 @@ It allows users to draw freely on a digital canvas using a pencil tool, just lik
 ## 🚀 Live Demo
 🔗 https://ps-drawingnotebook-website.netlify.app
 
+## preview:-👀
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/cf0447df-8a8b-4f49-bc51-985521bfed7c" />
+
+
 ---
 
 ## ✨ Features
